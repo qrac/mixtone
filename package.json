@@ -1,0 +1,30 @@
+{
+  "name": "mixtone",
+  "description": "Color variables of SCSS & Stylus",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "homepage": "https://mixtone.qranoko.jp",
+  "repository": "https://github.com/qrac/moftone",
+  "bugs": "https://github.com/qrac/moftone/issues",
+  "keywords": [
+    "sass",
+    "scss",
+    "stylus",
+    "variable",
+    "color",
+    "mixtone"
+  ],
+  "author": {
+    "name": "Qrac",
+    "url": "https://qrac.jp"
+  },
+  "organization": {
+    "name": "QRANOKO",
+    "url": "https://qranoko.jp"
+  },
+  "dependencies": {
+    "iostone": "^4.0.0",
+    "mdtone": "^4.0.0",
+    "moftone": "^7.0.0"
+  }
+}
